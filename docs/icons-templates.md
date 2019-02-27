@@ -3,7 +3,7 @@ Source :~ <http://compendiumld.open.ac.uk/download/icons+templates.html>
 
 # Icons and templates
 
-### Try out CompendiumLD's icons in Microsoft Office, LibreOffice, OpenOffice and other applications
+#### Try out CompendiumLD's icons in Microsoft Office, LibreOffice, OpenOffice and other applications
 
 If you want to try creating visual learning designs without installing CompendiumLD, you can use the icons in a variety of office and other applications. If you do this you will be able to create designs in an application you are already familiar with. However, you will not get the learning design features and design support that CompendiumLD provides.
 

@@ -3,7 +3,7 @@ Source :~ <http://www.open.ac.uk/blogs/OULDI/?page_id=37>
 
 # The Team
 
-![Rebecca](http://www.open.ac.uk/blogs/OULDI/wp-content/uploads/2010/11/Rebecca.jpg "Rebecca")](https://twitter.com/rebeccagalley)
+[![Rebecca](http://www.open.ac.uk/blogs/OULDI/wp-content/uploads/2010/11/Rebecca.jpg "Rebecca")](https://twitter.com/rebeccagalley)
 
 **Rebecca Galley**, Curriculum Design Project Officer / Project Research
 
@@ -31,7 +31,7 @@ Source :~ <http://www.open.ac.uk/blogs/OULDI/?page_id=37>
 **Andrew Brasher**, Lead developer (CompendiumLD)
 
 
-![Paul](http://www.open.ac.uk/blogs/OULDI/wp-content/uploads/2010/11/Paul.jpg "Paul")
+[![Paul](http://www.open.ac.uk/blogs/OULDI/wp-content/uploads/2010/11/Paul.jpg "Paul")][paul]
 
 **Paul Mundin**, Learning and Teaching Development Officer
 
@@ -66,6 +66,7 @@ on which _Gráinne Conole_ was critical friend and it is expected that this work
 In addition we have been working with the LAMS group and are looking forward to continuing to work with Gráinne and her new team at Leicester University.
 
 [archive]: https://web.archive.org/web/20180705125508/http://www.open.ac.uk/blogs/OULDI/?page_id=37
+[paul]: https://cloudworks.ac.uk/user/view/798 "Paul Mundin, on Cloudworks"
 [ouldi-jisc]: https://web.archive.org/web/20141209211813/http://jisc.ac.uk/whatwedo/programmes/elearning/curriculumdesign/ouldi.aspx
   "Open University learning design initiative project (JISC-OULDI), on Archive.org"
 [reading university]: http://www.open.ac.uk/blogs/OULDI/?page_id=277
