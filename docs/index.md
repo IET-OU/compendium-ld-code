@@ -27,7 +27,7 @@ Below is a [Sequence Map View](#sequenceMap). This shows a plan for the sequence
 
 The picture in the bottom right shows the [Task Times view](#taskTimes). In this view the designer can add the expected time that learners and teachers will take to perform tasks in the design, and keep an eye on the total time assigned to both learners and teachers.
 
-There are just a few of the ways that CompendiumLD can be used to design learning ctivities. There are several [other examples showing how CompendiumLD can be used](documentation/examples/).
+There are just a few of the ways that CompendiumLD can be used to design learning activities. There are several [other examples showing how CompendiumLD can be used](documentation/examples/).
 
 ---
 
@@ -67,6 +67,9 @@ CompendiumLD is a specialised version of [Compendium](http://compendium.open.ac.
 
 [**Download CompendiumLD**](download.html)
 
-If you are interested in the ideas behind CompendiumLD but do not want to install it right away, we have made ComendiumLD's learning design icons avaialable so you can try out the icons in other applications such as PowerPoint or LibreOffice. If you want to follow this route to get a feel for a visual approach to learning design, just [download CompendiumLD's learning design icons](download/icons+templates.html).
+If you are interested in the ideas behind CompendiumLD but do not want to install it right away, we have made ComendiumLD's learning design icons available so you can try out the icons in other applications such as PowerPoint or LibreOffice. If you want to follow this route to get a feel for a visual approach to learning design, just [download CompendiumLD's learning design icons](download/icons+templates.html).
+
+[archive]: https://web.archive.org/web/20181229083853/http://compendiumld.open.ac.uk/
+[arch-2009]: https://web.archive.org/web/20090221185555/http://compendiumld.open.ac.uk/
 
 ---

@@ -25,7 +25,7 @@ _[Download CompendiumLD v1.13 for Linux](downloads/version1.0/CompendiumLDv1.13.
 
 Once you have downloaded the .tar.gz zip file, extract it into a directory of your choice. You can then run CompendiumLD by navigating to the CompendiumLD directory and typing:  
 `./compendiumLD.sh`  
-into a terrminal.
+into a terminal.
 
 Compendium is a Java application, so it requires a Java Runtime Environment (1.5+) to be installed before you can run it.
 
@@ -38,5 +38,7 @@ There are also [links to documents, videos and other resources](documentation.ht
 We are committed to the free distribution of CompendiumLD. In return, please can we encourage you to supply authentic contact details and a brief line about your interest in CompendiumLD. We will only use the email address you supply for CompendiumLD-specific updates.
 
 Even if you have already registered when you downloaded an earlier version, please re-enter your details so we know who has upgraded.
+
+[archive]: https://web.archive.org/web/20180613155638/http://compendiumld.open.ac.uk/download.html
 
 ---

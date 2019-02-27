@@ -3,14 +3,14 @@ Source :~ <http://compendiumld.open.ac.uk/about.html>
 
 # About
 
-CompendiumLD is being developed as part of the [Open University Learning Design initiative](http://ouldi.open.ac.uk/), and is currently funded by [the Open University](http://www.open.ac.uk) and [JISC](http://www.jisc.ac.uk/). The team behind CompendiumLD is listed [here](http://www.open.ac.uk/blogs/OULDI/?page_id=37).
+CompendiumLD is being developed as part of the [Open University Learning Design initiative](http://ouldi.open.ac.uk/), and is currently funded by [the Open University](http://www.open.ac.uk) and [JISC](https://www.jisc.ac.uk/). The [team behind CompendiumLD is listed here][team].
 
-<a name="sourceCode" id="sourceCode"></a>The source code of CompendiumLD is available under the [GNU Lesser General Public (LGPL) license, version 3](https://www.gnu.org/licenses/gpl-3.0.html). We have not yet set up a distribiution site, but if you want the code please contact [Andrew Brasher](mailto:a.j.brasher@open.ac.uk).  
-[![Logo image for LGPL version 3](https://www.gnu.org/graphics/lgplv3-147x51.png)](https://www.gnu.org/licenses/gpl-3.0.html)
+<a name="sourceCode" ></a>The source code of CompendiumLD is available under the [GNU Lesser General Public (LGPL) license, version 3][lgpl]. We have not yet set up a distribution site, but if you want the code please contact [Andrew Brasher][].  
+[![Logo for LGPL version 3][lgpl-img]][lgpl]
 
 ## Contact
 
-Please contact [Andrew Brasher](mailto:a.j.brasher@open.ac.uk) if you have any questions about CompendiumLD.
+Please contact [Andrew Brasher][] if you have any questions about CompendiumLD.
 
 ## Background
 
@@ -25,5 +25,11 @@ CompendiumLD is a specialised version of [Compendium](http://compendium.open.ac.
 ## History
 
 [The history of changes to CompendiumLD](documentation/history): a description of the different versions released between March 2009 to May 2010\.
+
+[archive]: https://web.archive.org/web/20180331065515/http://compendiumld.open.ac.uk/about.html
+[lgpl]: https://gnu.org/licenses/lgpl-3.0.html "Code: GNU Lesser General Public (LGPL) license, version 3"
+[lgpl-img]: https://www.gnu.org/graphics/lgplv3-147x51.png
+[team]: http://www.open.ac.uk/blogs/OULDI/?page_id=37
+[andrew brasher]: mailto:a.j.brasher@open.ac.uk
 
 ---

@@ -19,7 +19,7 @@ If you are new to CompendiumLD and want to find out how to use it, one or more o
 Here are some suggestions of ways you can share your CompendiumLD data across different computers, and with other people.
 
 *   If you use more than one computer you can use a utility such as [Dropbox](https://www.dropbox.com/) to share and synchronise your CompendiumLD data across multiple machines. Other cloud based data sharing services are available in addition to Dropbox!
-*   You can share an image and/or the XML data of your learning design via [Cloudworks](http://cloudworks.ac.uk/cloud/view/3687) (a place to share, find and discuss learning and teaching ideas and experiences).
+*   You can share an image and/or the XML data of your learning design via [Cloudworks][] (a place to share, find and discuss learning and teaching ideas and experiences).
 *   There is a <span class="warning">prototype</span> web site for publishing and sharing CompendiumLD and Compendium maps. This [CompendiumLD map exchange](http://compendium.open.ac.uk/moodle/course/view.php?id=7) area of the Compendium map exchange allows users to upload their own maps and download others. All maps are published and shared using the [Creative Commons Attribution-NonCommercial-ShareAlike 2.0 Licence](https://creativecommons.org/licenses/by-nc-sa/2.0/uk/).
 
 ### <a name="improve" id="improve"></a> Improving CompendiumLD
@@ -29,5 +29,9 @@ It helps us to improve CompendiumLD if users report bugs, and requests for featu
 *   [Bug Reports / Feature Requests](http://compendium.open.ac.uk/bugzilla/enter_bug.cgi?product=CompendiumLD).
     This link takes you to the Compendium feature request and bug tracking site. If you have not already done so you will need to create an account to submit or browse through reported bugs and/or feature requests.
 *   [How to translate CompendiumLD into other languages](../documentation/translation/)
+
+[archive]: https://web.archive.org/web/20180401065418/http://compendiumld.open.ac.uk/documentation/
+[arch-bugz]: https://web.archive.org/web/20160902233719/http://compendium.open.ac.uk/bugzilla/enter_bug.cgi?product=CompendiumLD
+[cloudworks]: https://cloudworks.ac.uk/cloud/view/3687
 
 ---

@@ -23,4 +23,6 @@ Here are several examples of designs created using CompendiumLD. These show a fe
 
 *   [Tutorial examples](./tutorial-examples/) is a list of the examples referred to in the [CompendiumLD tutorials](../../documentation/version1.0/tutorials/).
 
+[archive]: https://web.archive.org/web/20181229083853/http://compendiumld.open.ac.uk/documentation/examples/
+
 ---

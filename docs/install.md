@@ -3,8 +3,8 @@ Source :~ <http://compendiumld.open.ac.uk/documentation/readme/ReadMe.html>
 
 ---
 
-`This is information about the the most recent prototype of [CompendiumLD](../../index.html),
-the Open University's learning design software.`
+_This is information about the the most recent prototype of [CompendiumLD](../../index.html),
+the Open University's learning design software._
 
 <a name="top"></a>
 
@@ -24,7 +24,7 @@ Table of Contents:
     - [General](#issuegeneral)  
     - [Windows](#issuewindows)  
 
-## <a name="welcome"></a> I. Welcome!
+## I. Welcome!
 
 ### Welcome to CompendiumLD
 
@@ -40,9 +40,9 @@ If you have any questions about CompendiumLD please contact the lead developer [
 
 [Back to top](#top)
 
-## <a name="install"></a> II. Install CompendiumLD
+## II. Install CompendiumLD
 
-### <a name="installgeneral"></a> General
+### General
 
 If you already have the [standard version of Compendium](http://compendium.open.ac.uk/institute/download/download.htm) installed, we recommend that you install this prototype into another directory.
 
@@ -50,7 +50,7 @@ _**CompendiumLD is a Java application, so it requires a Java Runtime Environment
 
 _If you have a previous version of CompendiumLD installed we recommend that you copy your previous installation to a new folder_ (e.g. ComendiumLD-backup) before updating the original with this new version.
 
-### <a name="windows"></a>Windows
+### Windows
 
 As stated [above](#installgeneral) CompendiumLD requires the a Java Runtime Environment (JRE) to be installed. If Java is not detected on your system you will be prompted to install the JRE at the end of the CompendiumLD installation process.
 
@@ -60,7 +60,7 @@ The simplest way to install CompendiumLD on either Windows XP, Vista, 7 or 8 is 
 
 If you are installing onto Windows Vista, 7 or 8 you may get an error message indicating that the Java Runtime Environment has not been installed correctly (e.g. this [javaw message](#issueJava)). If this occurs you will need to install the Java Runtime Environment separately. To do so, download the latest release of the Java Runtime Environment from the Java site and follow the installation instructions provided
 
-### <a name="mac"></a> Mac OS X
+### Mac OS X
 
 CompendiumLD version 1.2 for Mac OS X has been tested on 10.5 (Leopard), 10.6 (Snow Leopard), 10.7 (Lion) and 10.9 (Mavericks). It requires Java J2SE 5.0 Release 4 (aka 1.5.0_4) or later, which will be present if you are running Mac OS 10.6 and below. If you are running Mac OS 10.7 (Lion) or above you will need to install Java: see [Mac OS X Java 7 Information for installing and using Java](http://www.java.com/en/download/faq/java_mac.xml). CompendiumLD should also run on for 10.4 (Tiger) but has not been tested.
 
@@ -97,22 +97,22 @@ _TECH TIP:_ In order to automatically open external files and links on the Mac, 
 
 This file is added to as the user tries to launch various file types for the first time and picks an application to use. We have preloaded this file with three type, `www`, `http` and `https`, and we have associated them with the path `/Applications/Safari`. If you do not have this application or have it in another location, you will need to edit this file appropriately.
 
-### <a name="linux"></a> Linux
+### Linux
 
 Once you have downloaded the relevant `.tar.gz` file from the [CompendiumLD web site](http://compendiumld.open.ac.uk/), simply unpack it.
 You can run CompendiumLD by navigating to the CompendiumLD directory and typing:
 
-```
+```sh
 ./compendiumLD.sh
 ```
 
-Compendium is a Java application, so it requires a Java Runtime Environment (1.5+) to be installed before you can run it.
+Compendium is a Java application, so it requires a Java Runtime Environment _(1.5+)_ to be installed before you can run it.
 
 [Back to top](#top)
 
-## <a name="issues"></a> III. Known Issues
+## III. Known Issues
 
-### <a name="issueCLD"></a> CompendiumLD
+### CompendiumLD
 
 CompendiumLD is under ongoing development and there are some aspects of functionality that we know are missing from this version:
 
@@ -124,21 +124,23 @@ CompendiumLD is under ongoing development and there are some aspects of function
 There are other aspects of learning design functionality that we plan to add to future prototypes of CompendiumLD.
 Further information about these will be available from the [CompendiumLD website](http://compendiumld.open.ac.uk/).
 
-### <a name="issueJava"></a> Java
+### Java
 
 If, when starting CompendiumLD (e.g. by double clicking the CompendiumLD icon) you get a message like
 
+```
 Windows cannot find `javaw`
+```
 
-you should try reinstalling Java from the Java site ([http://java.com/](http://java.com/)).  
+you should try reinstalling Java from the [Java site][].  
 
-### <a id="issuegeneral" name="issuegeneral"></a> General _(issues concerning standard Compendium functionality)_
+### <a name="issuegeneral"></a>General _(issues concerning standard Compendium functionality)_
 
 When you import a map from QuestMap with Pros and Cons, they come out as Arguments in CompendiumLD (even though they are linked to other nodes).
 
 Exporting to an XML file in an off-line directory can cause the file to be corrupted. (This is a known Windows problem).
 
-### <a name="issuewindows"></a> Windows
+### Windows
 
 There is a general bug with Java running on machines with some versions of NVidia video drivers.
 If you have a graphics card which uses these drivers, and experience problems running CompendiumLD,
@@ -152,12 +154,15 @@ The final line in the batch file should resemble:
 start /b javaw -Dsun.java2d.noddraw=true -Xmx256m -classpath etc.. etc..
 ```
 
-Best wishes
+_Best wishes_
 
 The [CompendiumLD](../../index.html) Team, [Open University Learning Design Initiative](http://ouldi.open.ac.uk/).
 
 Contact: Andrew Brasher _(lead developer)_, [a.j.brasher@open.ac.uk](mailto:a.j.brasher@open.ac.uk).
 
 <span class="ciparagraph">[Back to top](#top)</span>
+
+[archive]: https://web.archive.org/web/20161229210039/http://compendiumld.open.ac.uk/documentation/readme/ReadMe.html
+[java site]: https://www.java.com/
 
 ---
