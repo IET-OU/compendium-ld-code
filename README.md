@@ -7,9 +7,13 @@ CompendiumLD is a software tool for designing learning activities using a flexib
 It is being developed as a tool to support lecturers, teachers and others involved in
 education to help them articulate their ideas and map out the design or learning sequence.
 
-[More](docs/index.md)
+[More about Compendium LD](docs/index.md)
 
+---
+
+ * [Archive.org: compendiumld.open.ac.uk][archive]
  * [compendiumld.open.ac.uk][]
+ * [OULDI project blog][blog]
 
 ## Release notes
 
@@ -38,12 +42,14 @@ See [CREDITS.md](docs/CREDITS.md) and [team][].
 [ou]: https://www.open.ac.uk/
 [iet]: https://iet.open.ac.uk/
 
-[compendiumld.open.ac.uk]: http://compendiumld.open.ac.uk/ "Legacy web-site"
-[legacy]: https://github.com/IET-OU/compendium-ld "Legacy web-site"
-[archive]: https://web.archive.org/web/20180601000000*/http://compendiumld.open.ac.uk/
+[archive]: https://web.archive.org/web/20181229083853/http://compendiumld.open.ac.uk/
+  "Compendium LD homepage, on Archive.org, 29-December-2018."
+[compendiumld.open.ac.uk]: http://compendiumld.open.ac.uk/ "De-commissioned, 28-Feb-2019."
+[legacy]: https://github.com/IET-OU/compendium-ld "Legacy web-site source"
+[archive-idx]: https://web.archive.org/web/20180601000000*/http://compendiumld.open.ac.uk/
 [jisc]: https://jisc.ac.uk/
-[ouldi]: http://ouldi.open.ac.uk/ "Open University Learning Design initiative (OULDI)"
-[blog]: http://www.open.ac.uk/blogs/OULDI/ "Open University Learning Design initiative (OULDI)"
+[ouldi]: http://ouldi.open.ac.uk/ "Open University Learning Design initiative (OULDI) (redirects to blog)"
+[blog]: http://www.open.ac.uk/blogs/OULDI/ "Blog: Open University Learning Design initiative (OULDI)"
 [team]: http://www.open.ac.uk/blogs/OULDI/?page_id=37
 [andrew brasher]: mailto:a.j.brasher@open.ac.uk
 
