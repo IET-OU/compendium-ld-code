@@ -28,7 +28,7 @@ Source :~ <http://www.open.ac.uk/blogs/OULDI/?page_id=37>
 
 [![Andrew](http://www.open.ac.uk/blogs/OULDI/wp-content/uploads/2010/11/Andrew.jpg "Andrew")](http://www.open.ac.uk/people/ajb785)
 
-**Andrew Brasher**, Lead developer (CompendiumLD)
+**Andrew Brasher**, Lead developer (CompendiumLD) [[@a-brasher]](https://github.com/a-brasher)
 
 
 [![Paul](http://www.open.ac.uk/blogs/OULDI/wp-content/uploads/2010/11/Paul.jpg "Paul")][paul]

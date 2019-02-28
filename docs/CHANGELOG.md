@@ -9,6 +9,19 @@ The history of changes made to CompendiumLD, release-by-release over the period 
 
 [Version 1.13](#version113) - [Version 1.0](#version10) - [Version 0.98](#version098) - [Version 0.95](#version095) - [Version 0.75](#version075) - [Version 0.66](#version066)
 
+### CompendiumLD version 1.2b3
+
+CompendiumLD version 1.2b3, released for Windows and Mac OS X.
+
+ * Build date of DMG/MPKG file for Mac OS X :— _2014-03-11 14:46_.
+ * Developer :— Andrew Brasher / [@a-brasher][].
+
+(_Release notes missing._)
+
+[CompendiumLDv1.2b3.dmg]: #!-v1.2b3 "2014-03-11 14:46 (build date of DMG/MPKG file for Mac OS X)"
+[CompendiumLDv1.2-5.dmg]: #!-v1.2-5 "2013-04-15 16:27 (build date of DMG/MPKG file for Mac OS X)"
+[CompendiumLDv1.2.dmg]:   #!-v1.2   "2013-03-22 17:38 (build date of DMG/MPKG file for Mac OS X)"
+
 <div id="v113">
 
 ### <a name="version113" ></a>CompendiumLD version 1.13
@@ -103,5 +116,6 @@ CompendiumLD v0.66 released for Windows only | _2009-03-20 15:18:52 GMT_.
 
 [archive]: https://web.archive.org/web/20170519024443/http://compendiumld.open.ac.uk/documentation/history/
 [transclusion]: https://en.wikipedia.org/wiki/Transclusion
+[@a-brasher]: https://github.com/a-brasher "Andrew Brasher"
 
 ---
